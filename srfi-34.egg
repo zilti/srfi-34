@@ -5,5 +5,5 @@
  ;;(doc-from-wiki)
  (license "SRFI")
  (category misc)
- (version "0.7")
+ (version "0.8")
  (components (extension srfi-34)))
